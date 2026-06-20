@@ -2,7 +2,9 @@
 Car Project
 
 Car Rental Data Lakehouse Pipeline 
-Delta Lake | Data Modeling | Azure Databricks | PySpark | Azure Data Factory | ADLS Gen2 
+
+Technology used :- Delta Lake | Data Modeling | Azure Databricks | PySpark | Azure Data Factory | ADLS Gen2 
+
  Designed and implemented a Lakehouse architecture using Star Schema with 4 Dimension tables and 1 Fact table.  
  Developed ETL pipelines using Azure Data Factory and PySpark to process customer, booking, and rental transaction 
 data.  
